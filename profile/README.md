@@ -1,22 +1,18 @@
 # Shiva Toolbox
 
-Server tools on autopilot.  
+Multipurpose bots, customizable for each use case.
 
-Open-source Discord tooling. We ship small, configurable modules so communities spend less time on setup and more time on the server.
+We ship small, configurable modules so communities spend less time on setup and more time on the server.
 
 ## Projects
 
 | Repo | What it is |
 | --- | --- |
-| [shiva-toolbox](https://github.com/ORG/shiva-toolbox) | Discord bot (TypeScript, discord.js, PostgreSQL): autorole, join/leave alerts, Twitch & YouTube live alerts, reaction roles, per-server language |
+| [shiva-toolbox](https://github.com/ORG/shiva-toolbox) | Multipurpose bots, customizable per server. |
 
 ## Stack
 
 TypeScript · discord.js · Prisma · PostgreSQL · pnpm · Docker
-
-## Status
-
-The bot is the first piece. A dashboard and a landing page are planned around the same shared contracts.
 
 ## Contributing
 
